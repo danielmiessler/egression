@@ -1,4 +1,4 @@
-<img width="500" alt="screen shot 2017-07-23 at 1 48 48 pm" src="https://user-images.githubusercontent.com/50654/28538157-16095534-7062-11e7-8efe-f53c750faa76.png">
+<img width="700" alt="screen shot 2017-07-23 at 1 48 48 pm" src="https://user-images.githubusercontent.com/50654/28538157-16095534-7062-11e7-8efe-f53c750faa76.png">
 
 ## Description
 
@@ -24,7 +24,7 @@ ST 68 86 80 B
 
 ## Testing procedure
 
-<img width="500" alt="screen shot 2017-07-24 at 11 30 06 am" src="https://user-images.githubusercontent.com/50654/28538557-7a4cea46-7063-11e7-9c05-001be31b2ab3.png">
+<img width="600" alt="screen shot 2017-07-24 at 11 30 06 am" src="https://user-images.githubusercontent.com/50654/28538557-7a4cea46-7063-11e7-9c05-001be31b2ab3.png">
 
 It has four (4) levels of testing.
 
@@ -35,7 +35,7 @@ It has four (4) levels of testing.
 
 It does each of these in succession and then reports on which levels it failed to block.
 
-<img width="500" alt="screen shot 2017-07-24 at 11 27 51 am" src="https://user-images.githubusercontent.com/50654/28538460-2b3d39d8-7063-11e7-8438-b13e275c4786.png">
+<img width="600" alt="screen shot 2017-07-24 at 11 27 51 am" src="https://user-images.githubusercontent.com/50654/28538460-2b3d39d8-7063-11e7-8438-b13e275c4786.png">
 
 ## Installation
 
@@ -47,9 +47,17 @@ The tool is made to be as self-contained as possible and easy to run. You can in
 
 NOTE: Most of these are installed natively on both MacOS and Linux.
 
+## Presentations
+
+- Blackhat Arsenal 2017
+
 ## Next Steps
 
 Plans for the project include:
 
 - Adding additional levels, with additional egress methods, e.g.: sending data over NTP, ICMP, etc.
 - Additional fault checking for various scenarios
+
+## Credits and Thanks
+
+Hat tip to William Coppola for previous and complementary work he's done in this space with his Fillabuster tool, which he also presented at BlackHat Arsenal back in 2015.
