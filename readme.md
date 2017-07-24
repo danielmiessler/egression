@@ -6,21 +6,21 @@ EGRESSION is a tool that provides an instant view of how easy it is to upload se
 
 It starts with a sensitive file with these contents:
 
-//US Social
-567-24-4901
-//Credit card numbers
-4111111111111111
-5105105105105100
-4222222222222
-//Dates of birth
-12.12.94
-12/12/1994
-12/12/94
-12 July 1994
-//Canadian SIN
-202 275 186
-//UK National Insurance Number (NINO)
-ST 68 86 80 B
+- //US Social
+- 567-24-4901
+- //Credit card numbers
+- 4111111111111111
+- 5105105105105100
+- 4222222222222
+- //Dates of birth
+- 12.12.94
+- 12/12/1994
+- 12/12/94
+- 12 July 1994
+- //Canadian SIN
+- 202 275 186
+- //UK National Insurance Number (NINO)
+- ST 68 86 80 B
 
 ## Testing procedure
 
