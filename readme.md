@@ -35,7 +35,7 @@ It has four (4) levels of testing.
 
 It does each of these in succession and then reports on which levels it failed to block.
 
-<img width="600" alt="screen shot 2017-07-24 at 11 27 51 am" src="https://user-images.githubusercontent.com/50654/28538460-2b3d39d8-7063-11e7-8438-b13e275c4786.png">
+<img width="750" alt="screen shot 2017-07-24 at 11 27 51 am" src="https://user-images.githubusercontent.com/50654/28538460-2b3d39d8-7063-11e7-8438-b13e275c4786.png">
 
 ## Installation
 
