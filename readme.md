@@ -60,4 +60,5 @@ Plans for the project include:
 
 ## Credits and Thanks
 
-Hat tip to William Coppola for previous and complementary work he's done in this space with his Fillabuster tool, which he also presented at BlackHat Arsenal back in 2015.
+- Hat tip to William Coppola for previous and complementary work he's done in this space with his Fillabuster tool, which he also presented at BlackHat Arsenal back in 2015.
+- Thanks to Sasa Zdjelar and Jason Haddix for giving feedback on the tool.
