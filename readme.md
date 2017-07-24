@@ -4,7 +4,7 @@
 
 EGRESSION is a tool that provides an instant view of how easy it is to upload sensitive data from any given network.
 
-It starts with a sensitive file with these contents, which is stored locally in plaintext. This file is used to test the egress / DLP controls on the network.
+It starts with a sensitive file with these contents, which is stored locally in plaintext. This file is used to test the egress / DLP controls on the network by attempting to connect outbound and upload this file using various techniques.
 
 - //US Social
 - 567-24-4901
