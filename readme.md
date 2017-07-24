@@ -1,10 +1,10 @@
-<img width="700" alt="screen shot 2017-07-23 at 1 48 48 pm" src="https://user-images.githubusercontent.com/50654/28538157-16095534-7062-11e7-8efe-f53c750faa76.png">
+<img width="800" alt="screen shot 2017-07-23 at 1 48 48 pm" src="https://user-images.githubusercontent.com/50654/28538157-16095534-7062-11e7-8efe-f53c750faa76.png">
 
 ## Description
 
 EGRESSION is a tool that provides an instant view of how easy it is to upload sensitive data from any given network.
 
-It starts with a sensitive file with these contents:
+It starts with a sensitive file with these contents, which is stored locally in plaintext. This file is used to test the egress / DLP controls on the network.
 
 - //US Social
 - 567-24-4901
