@@ -44,6 +44,7 @@ The tool is made to be as self-contained as possible and easy to run. You can in
 1. Ensure you have <code>python</code> installed.
 2. Ensure you have <code>curl</code> installed.
 3. Ensure you have <code>nc</code> installed.
+4. Enter the dnsfilexfer directory and run <code>python install -r requirements</code>.
 
 NOTE: Most of these are installed natively on both MacOS and Linux.
 
