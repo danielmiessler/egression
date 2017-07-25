@@ -40,7 +40,7 @@ echo " "
 
 sleep 1
 
-#read -n 1 -s -r -p "Press the ANY key to continue."
+read -n 1 -s -r -p "Press the ANY key to continue."
 echo ""
 echo ""
 
@@ -137,7 +137,7 @@ echo "$(tput setaf 3)== WE WILL NOW ATTEMPT TO UPLOAD THIS FILE TO THE INTERNET,
 
 sleep 1
 
-#read -n 1 -s -r -p "Press the ANY key to continue."
+read -n 1 -s -r -p "Press the ANY key to continue."
 
 echo ""
 echo ""
@@ -164,7 +164,7 @@ echo ""
 
 sleep 1
 
-#read -n 1 -s -r -p "Press the ANY key to continue."
+read -n 1 -s -r -p "Press the ANY key to continue."
 
 echo ""
 
@@ -256,7 +256,7 @@ sleep 1
 
 echo ""
 
-#read -n 1 -s -r -p "Press the ANY key to continue."
+read -n 1 -s -r -p "Press the ANY key to continue."
 
 echo ""
 echo ""
@@ -273,6 +273,14 @@ if [ $? -eq 0 ]
     else
         echo "FILE UPLOAD FAILED :: $(tput setaf 2)53 (DNS UDP)-- $(tput setaf 7)PASSED $(tput sgr 0)" 
 fi
+
+echo ""
+echo "$(tput setaf 3)== WE WILL NOW DISPLAY THE RESULTS OF THE TESTING.$(tput sgr 0) =="
+echo ""
+
+read -n 1 -s -r -p "Press the ANY key to continue."
+
+echo ""
 
 echo ""
 echo ""
