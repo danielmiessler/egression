@@ -1,0 +1,28 @@
+INFORMATIONAL : It's possible to connect outbound on at least one major port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+INFORMATIONAL : It's possible to connect outbound on at least one major port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+INFORMATIONAL : It's possible to connect outbound on at least one major port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+INFORMATIONAL : It's possible to connect outbound on at least one major port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+INFORMATIONAL : It's possible to connect outbound on at least one major port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+INFORMATIONAL : It's possible to connect outbound on at least one major port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+LEVEL 0 FAILURE: It's possible to upload an unencrypted sensitive file from your network without using encryption.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+LEVEL 1 FAILURE: It's possible to upload a sensitive file from your network using SSH over at least one port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+LEVEL 1 FAILURE: It's possible to upload a sensitive file from your network using SSH over at least one port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+LEVEL 1 FAILURE: It's possible to upload a sensitive file from your network using SSH over at least one port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+LEVEL 1 FAILURE: It's possible to upload a sensitive file from your network using SSH over at least one port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+LEVEL 1 FAILURE: It's possible to upload a sensitive file from your network using SSH over at least one port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+LEVEL 1 FAILURE: It's possible to upload a sensitive file from your network using SSH over at least one port.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
+LEVEL 2 FAILURE: It's possible to upload a file from your network using DNS requests.
+RECOMMENDATION :: Work on making it far harder to upload sensitive content out of the network.
