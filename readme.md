@@ -1,4 +1,4 @@
-<img width="800" alt="screen shot 2017-07-23 at 1 48 48 pm" src="https://user-images.githubusercontent.com/50654/28538157-16095534-7062-11e7-8efe-f53c750faa76.png">
+<img width="830" alt="screen shot 2017-07-23 at 1 48 48 pm" src="https://user-images.githubusercontent.com/50654/28538157-16095534-7062-11e7-8efe-f53c750faa76.png">
 
 ## Description
 
@@ -60,5 +60,6 @@ Plans for the project include:
 
 ## Credits and Thanks
 
-- Hat tip to William Coppola for previous and complementary work he's done in this space with his Fillabuster tool, which he also presented at BlackHat Arsenal back in 2015.
+- Thanks to [Leon Jacobs](https://github.com/leonjza) for his [dnsfilexfer](https://github.com/leonjza/dnsfilexfer) tool, which I use to do the DNS tranfer.
+- Hat tip to William Coppola for previous and complementary work he's done in this space with his [Fillabuster](https://github.com/subinacls/Filibuster) tool, which he also presented at BlackHat Arsenal back in 2015.
 - Thanks to Sasa Zdjelar and Jason Haddix for giving feedback on the tool.
