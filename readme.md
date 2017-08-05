@@ -44,9 +44,13 @@ The tool is made to be as self-contained as possible and easy to run. You can in
 1. Ensure you have <code>python</code> installed.
 2. Ensure you have <code>curl</code> installed.
 3. Ensure you have <code>nc</code> installed.
-4. Enter the dnsfilexfer directory and run <code>python install -r requirements</code>.
-
-NOTE: Most of these are installed natively on both MacOS and Linux.
+4. <code>git clone https://github.com/danielmiessler/egression.git</code>
+5. <code>cd egression</code>
+4. <code>git clone https://github.com/leonjza/dnsfilexfer.git</code>
+5. <code>cd dnsfilexfer</code>
+6. <code>sudo pip install -r requirements</code>
+7. <code>cd ..</code>
+8. </code>./egression</code>
 
 ## Presentations
 
