@@ -48,7 +48,7 @@ The tool is made to be as self-contained as possible and easy to run. You can in
 5. <code>cd egression/dnsfilexfer</code>
 6. <code>sudo pip install -r requirements</code>
 7. <code>cd ..</code>
-8. </code>./egression</code>
+8. <code>./egression</code>
 
 ## Presentations
 
