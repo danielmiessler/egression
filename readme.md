@@ -41,12 +41,11 @@ It does each of these in succession and then reports on which levels it failed t
 
 The tool is made to be as self-contained as possible and easy to run. You can install the dependencies like so:
 
-1. Ensure you have <code>python</code> installed.
-2. Ensure you have <code>curl</code> installed.
-3. Ensure you have <code>nc</code> installed.
-4. <code>git clone https://github.com/danielmiessler/egression.git</code>
-7. <code>cd egression</code>
-8. <code>./egression</code>
+1. Ensure you have <code>curl</code> installed.
+2. Ensure you have <code>nc</code> installed.
+3. <code>git clone https://github.com/danielmiessler/egression.git</code>
+4. <code>cd egression</code>
+5. <code>./egression</code>
 
 ## Presentations
 
