@@ -45,9 +45,7 @@ The tool is made to be as self-contained as possible and easy to run. You can in
 2. Ensure you have <code>curl</code> installed.
 3. Ensure you have <code>nc</code> installed.
 4. <code>git clone https://github.com/danielmiessler/egression.git</code>
-5. <code>cd egression/dnsfilexfer</code>
-6. <code>sudo pip install -r requirements</code>
-7. <code>cd ..</code>
+7. <code>cd egression</code>
 8. <code>./egression</code>
 
 ## Presentations
@@ -63,6 +61,5 @@ Plans for the project include:
 
 ## Credits and Thanks
 
-- Thanks to [Leon Jacobs](https://github.com/leonjza) for his [dnsfilexfer](https://github.com/leonjza/dnsfilexfer) tool, which I use to do the DNS tranfer.
 - Hat tip to William Coppola for previous and complementary work he's done in this space with his [Fillabuster](https://github.com/subinacls/Filibuster) tool, which he also presented at BlackHat Arsenal back in 2015.
 - Thanks to Sasa Zdjelar and Jason Haddix for giving feedback on the tool.
