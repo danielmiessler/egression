@@ -1,2 +1,0 @@
-dnspython>=1.11.1
-pycrypto>=2.6.1
